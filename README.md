@@ -1,7 +1,9 @@
 # flutter_application_1
 
-My first Project 
-Just Simple one 
+My first Project .
+
+Just Simple one .
+
 A new Flutter project.
 
 ## Getting Started
